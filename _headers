@@ -1,0 +1,7 @@
+/*
+  Cache-Control: max-age=0, no-cache
+  Strict-Transport-Security: max-age=31536000; preload
+  X-Frame-Options: deny
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+  X-XSS-Protection: 1; mode=block
